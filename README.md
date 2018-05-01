@@ -21,6 +21,6 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Crashlytics](https://try.crashlytics.com/) | ✅ | ✅ | ✅ | ❌ |
 | [Firebase](https://firebase.google.com/docs/ios/setup) | ✅ | ✅ | ✅ | ❌ |
 | [Heap](https://heapanalytics.com/) | ✅ | ✅ | ✅ | ❌ |
-| [leanplum](https://heapanalytics.com/) | ✅ | ✅ | ✅ | ✅ |
+| [leanplum](https://www.leanplum.com/) | ✅ | ✅ | ✅ | ✅ |
 | [Chartboost](https://answers.chartboost.com/en-us/articles/download) | ❌ | ✅ | ❌ |  ❌ |
 | [AskingPoint](https://www.askingpoint.com/documentation-ios-sdk/) | ❌ | ✅ | ❌ |  ❌ |
