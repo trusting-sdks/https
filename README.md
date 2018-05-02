@@ -54,7 +54,7 @@ If this item is ❌ be extra cautios when using the SDK, and notify the SDK prov
 
 ### Open Source
 
-- ✅ The SDK is open source, meaning you can see what kind of data the SDK tracks, and what web resources it accesses
+- ✅ The SDK is open source, meaning you can see what kind of data the SDK tracks, and what web hosts it accesses
 - ⚠️ The SDK is not open source - this doesn't mean it's bad, it just means you can't see what the SDK does
 
 The risks of a closed source SDK is described in detail in [trusting SDKs](https://krausefx.com/blog/trusting-sdks). In particular when it comes to accessing user data, keychain entries and photos this might add an risk.
