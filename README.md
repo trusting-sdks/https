@@ -25,25 +25,21 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Chartboost](https://answers.chartboost.com/en-us/articles/download) | ❌ | ✅ | ❌ |  ⚠️ |
 | [AskingPoint](https://www.askingpoint.com/documentation-ios-sdk/) | ❌ | ✅ | ❌ |  ⚠️ |
 
-## Contributing
-
-This repo is community-driven. To update the information of an SDK, just submit a Pull Request to this repo. You can use the GitHub online editor to easily editor text online, without having to manually clone the repo.
-
-### Has official CocoaPod
+#### Has official CocoaPod
 
 - ✅ A CocoaPod is available on CocoaPods.org, and is maintained by the company providing the SDK.
 - ❌ No CocoaPod is available, or the pod that's available is published or maintained by a third party
 
 As soon as the pod is maintained by a third party, the SDK is out of the control of the company providing it, adding an extra layer of security risks.
 
-### Website that links encrypted
+#### Website that links encrypted
 
 - ✅ The website linking to the download of the SDK (or the CocoaPods page) is HTTPs encrypted by default
 - ❌ The website linking to the download uses unencrypted HTTP
 
 This is critical, as by having the marketing or docs page be unencrypted allows an attack to re-write any links to different URLs, as described in [trusting SDKs](https://krausefx.com/blog/trusting-sdks) in the `Localytics` section.
 
-### Download uses HTTPs
+#### Download uses HTTPs
 
 This section is about the `Manual Installation` section most SDKs provides. As mentioned in [trusting SDKs](https://krausefx.com/blog/trusting-sdks) most of the pods on CocoaPods are secure.
 
@@ -52,9 +48,14 @@ This section is about the `Manual Installation` section most SDKs provides. As m
 
 If the download doesn't happen via HTTPs be extra cautios when using the SDK, and notify the SDK provider.
 
-### Open Source
+#### Open Source
 
 - ✅ The SDK is open source, meaning you can see what kind of data the SDK tracks, and what web hosts it accesses
 - ⚠️ The SDK is not open source - this doesn't mean it's bad, it just means you can't see what the SDK does
 
 The risks of a closed source SDK is described in detail in [trusting SDKs](https://krausefx.com/blog/trusting-sdks). In particular when it comes to accessing user data, keychain entries and photos this might add an risk.
+
+## Contributing
+
+This repo is community-driven. To update the information of an SDK, just submit a Pull Request to this repo. You can use the GitHub online editor to easily editor text online, without having to manually clone the repo.
+
