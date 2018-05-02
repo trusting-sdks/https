@@ -50,7 +50,7 @@ This section is about the `Manual Installation` section most SDKs provides. As m
 - ✅ The download of the SDK happens via HTTPs by default
 - ❌ The download of the SDK uses unencrypted HTTP by default, or doesn't support HTTPs at all
 
-If this item is ❌ be extra cautios when using the SDK, and notify the SDK provider.
+If the download doesn't happen via HTTPs be extra cautios when using the SDK, and notify the SDK provider.
 
 ### Open Source
 
