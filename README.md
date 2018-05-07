@@ -22,10 +22,12 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Firebase](https://firebase.google.com/docs/ios/setup) | ✅ | ✅ | ✅ | ⚠️ |
 | [Heap](https://heapanalytics.com/) | ✅ | ✅ | ✅ | ⚠️ |
 | [leanplum](https://www.leanplum.com/) | ✅ | ✅ | ✅ | ✅ |
-| [Chartboost](https://answers.chartboost.com/en-us/articles/download) | ❌ | ✅ | ❌ |  ⚠️ |
-| [AskingPoint](https://www.askingpoint.com/documentation-ios-sdk/) | ❌ | ✅ | ❌ |  ⚠️ |
+| [Chartboost](https://answers.chartboost.com/en-us/articles/download) | ❌ | ✅ | ❌ | ⚠️ |
+| [AskingPoint](https://www.askingpoint.com/documentation-ios-sdk/) | ❌ | ✅ | ❌ | ⚠️ |
 | [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) | ✅ | ✅ | ✅ | ⚠️ |
 | [Customerly SDK](https://www.customerly.io/customers-intelligence) | ✅ | ✅ | ✅ | ✅ |
+| [HockeyApp](https://github.com/bitstadium/HockeySDK-iOS#readme) | ✅ | ✅ | ✅ | ✅ |
+| [VS App Center](https://github.com/Microsoft/appcenter-sdk-apple#readme) | ✅ | ✅ | ✅ | ✅ |
 
 #### Has official CocoaPod
 
