@@ -24,7 +24,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [leanplum](https://www.leanplum.com/) | ✅ | ✅ | ✅ | ✅ |
 | [Chartboost](https://answers.chartboost.com/en-us/articles/download) | ❌ | ✅ | ❌ |  ⚠️ |
 | [AskingPoint](https://www.askingpoint.com/documentation-ios-sdk/) | ❌ | ✅ | ❌ |  ⚠️ |
-| [Google Analytics SDK](https://developers.google.com/analytics/devguides/collection/ios/v3/) | ✅ | ✅ | ✅ | ⚠️ |
+| [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) | ✅ | ✅ | ✅ | ⚠️ |
 
 #### Has official CocoaPod
 
