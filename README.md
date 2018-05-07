@@ -25,6 +25,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Chartboost](https://answers.chartboost.com/en-us/articles/download) | ❌ | ✅ | ❌ |  ⚠️ |
 | [AskingPoint](https://www.askingpoint.com/documentation-ios-sdk/) | ❌ | ✅ | ❌ |  ⚠️ |
 | [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) | ✅ | ✅ | ✅ | ⚠️ |
+| [Customerly SDK](https://www.customerly.io/customers-intelligence) | ✅ | ✅ | ✅ | ✅ |
 
 #### Has official CocoaPod
 
