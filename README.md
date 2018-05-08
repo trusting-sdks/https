@@ -31,6 +31,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Evernote SDK](https://github.com/evernote/evernote-cloud-sdk-ios) | ✅ | ✅ | ✅ | ✅ |
 | [Carnival SDK](https://github.com/carnivalmobile/carnival-ios-sdk/)| ✅ | ✅ | ✅ | ⚠️ |
 | [PSPDFKit for iOS/macOS](https://pspdfkit.com/)| ✅ | ✅ | ✅ | ⚠️ |
+| [Instabug](https://instabug.com/)| ✅ | ✅ | ✅ | ⚠️ |
 | [Intercom iOS SDK](https://github.com/intercom/intercom-ios)| ✅ | ✅ | ✅ | ⚠️ |
 
 #### Has official CocoaPod
