@@ -29,6 +29,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [HockeyApp](https://github.com/bitstadium/HockeySDK-iOS#readme) | ✅ | ✅ | ✅ | ✅ |
 | [VS App Center](https://github.com/Microsoft/appcenter-sdk-apple#readme) | ✅ | ✅ | ✅ | ✅ |
 | [Evernote SDK](https://github.com/evernote/evernote-cloud-sdk-ios) | ✅ | ✅ | ✅ | ✅ |
+| [Carnival SDK](https://github.com/carnivalmobile/carnival-ios-sdk/)| ✅ | ✅ | ✅ | ⚠️ |
 
 #### Has official CocoaPod
 
