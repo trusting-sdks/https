@@ -13,7 +13,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Facebook SDK](https://developers.facebook.com/docs/ios/) | ✅ | ✅ | ✅ | ✅ |
 | [AWS SDK](https://aws.amazon.com/documentation/sdk-for-ios/) | ✅ | ✅ | ✅ | ⚠️ |
 | [AppsFlyer](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS) | ✅ | ✅ | ❌ | ✅ |
-| [Realm](https://github.com/realm/realm-cocoa) | ✅ | ✅ | ✅ | ✅ |
+| [Realm](https://github.com/realm/realm-cocoa) | ✅ | ✅ | ✅ | ⚠️ |
 | [Mixpanel](https://mixpanel.com/help/reference/ios) | ✅ | ✅ | ✅ | ✅ |
 | [Braintree](https://developers.braintreepayments.com/guides/client-sdk/setup/ios/v4) | ✅ | ✅ | ✅ | ✅ |
 | [Amplitude](https://amplitude.zendesk.com/hc/en-us/articles/115002278527-iOS-SDK-Installation) | ✅ | ✅ | ✅ | ✅ |
@@ -28,6 +28,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Customerly SDK](https://www.customerly.io/customers-intelligence) | ✅ | ✅ | ✅ | ✅ |
 | [HockeyApp](https://github.com/bitstadium/HockeySDK-iOS#readme) | ✅ | ✅ | ✅ | ✅ |
 | [VS App Center](https://github.com/Microsoft/appcenter-sdk-apple#readme) | ✅ | ✅ | ✅ | ✅ |
+| [Evernote SDK](https://github.com/evernote/evernote-cloud-sdk-ios) | ✅ | ✅ | ✅ | ✅ |
 
 #### Has official CocoaPod
 
