@@ -11,7 +11,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | SDK | Has official CocoaPod | Website that links encrypted | Download uses HTTPS | Open Source |
 | --- | :---: | :---: | :---: | :---: |
 | [Facebook SDK](https://developers.facebook.com/docs/ios/) | ✅ | ✅ | ✅ | ✅ |
-| [AWS SDK](https://aws.amazon.com/documentation/sdk-for-ios/) | ✅ | ✅ | ✅ | ⚠️ |
+| [AWS SDK](https://aws.amazon.com/documentation/sdk-for-ios/) | ✅ | ✅ | ✅ | ✅ |
 | [AppsFlyer](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS) | ✅ | ✅ | ❌ | ✅ |
 | [Realm](https://github.com/realm/realm-cocoa) | ✅ | ✅ | ✅ | ⚠️ |
 | [Mixpanel](https://mixpanel.com/help/reference/ios) | ✅ | ✅ | ✅ | ✅ |
