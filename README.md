@@ -35,6 +35,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Intercom iOS SDK](https://github.com/intercom/intercom-ios)| ✅ | ✅ | ✅ | ⚠️ |
 | [Zendesk Support SDK](https://github.com/zendesk/zendesk_sdk_ios)| ✅ | ✅ | ✅ | ⚠️ |
 | [Zendesk Chat SDK](https://github.com/zendesk/zendesk_sdk_chat_ios)| ✅ | ✅ | ✅ | ⚠️ |
+| [PhotoEditor SDK iOS](https://www.photoeditorsdk.com/)| ✅ | ✅ | ✅ | ⚠️ |
 
 #### Has official CocoaPod
 
