@@ -35,6 +35,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Intercom iOS SDK](https://github.com/intercom/intercom-ios)| ✅ | ✅ | ✅ | ⚠️ |
 | [Zendesk Support SDK](https://github.com/zendesk/zendesk_sdk_ios)| ✅ | ✅ | ✅ | ⚠️ |
 | [Zendesk Chat SDK](https://github.com/zendesk/zendesk_sdk_chat_ios)| ✅ | ✅ | ✅ | ⚠️ |
+| [Sentry SDK](https://github.com/getsentry/sentry-cocoa) | ✅ | ✅ | ✅ | ✅ |
 | [PhotoEditor SDK iOS](https://www.photoeditorsdk.com/)| ✅ | ✅ | ✅ | ⚠️ |
 
 #### Has official CocoaPod
@@ -69,7 +70,6 @@ The risks of a closed source SDK is described in detail in [trusting SDKs](https
 
 ## Contributing
 
-This repo is community-driven. To update the information of an SDK, just submit a Pull Request to this repo. You can use [the GitHub online editor](https://github.com/trusting-sdks/https/edit/master/README.md) to easily edit text online, without having to manually clone the repo. 
+This repo is community-driven. To update the information of an SDK, just submit a Pull Request to this repo. You can use [the GitHub online editor](https://github.com/trusting-sdks/https/edit/master/README.md) to easily edit text online, without having to manually clone the repo.
 
 [**Click here to edit this file**](https://github.com/trusting-sdks/https/edit/master/README.md)
-
