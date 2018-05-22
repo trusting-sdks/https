@@ -16,6 +16,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Realm](https://github.com/realm/realm-cocoa) | ✅ | ✅ | ✅ | ⚠️ |
 | [Mixpanel](https://mixpanel.com/help/reference/ios) | ✅ | ✅ | ✅ | ✅ |
 | [Braintree](https://developers.braintreepayments.com/guides/client-sdk/setup/ios/v4) | ✅ | ✅ | ✅ | ✅ |
+| [Branch](https://github.com/BranchMetrics/ios-branch-deep-linking) | ✅ | ✅ | ✅ | ✅ |
 | [Amplitude](https://amplitude.zendesk.com/hc/en-us/articles/115002278527-iOS-SDK-Installation) | ✅ | ✅ | ✅ | ✅ |
 | [Appsee](https://www.appsee.com/docs/ios/native) | ✅ | ✅ | ✅ | ⚠️ |
 | [Crashlytics](https://try.crashlytics.com/) | ✅ | ✅ | ✅ | ⚠️ |
