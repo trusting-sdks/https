@@ -12,7 +12,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | --- | :---: | :---: | :---: | :---: |
 | [Facebook SDK](https://developers.facebook.com/docs/ios/) | ✅ | ✅ | ✅ | ✅ |
 | [AWS SDK](https://aws.amazon.com/documentation/sdk-for-ios/) | ✅ | ✅ | ✅ | ✅ |
-| [AppsFlyer](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS) | ✅ | ✅ | ❌ | ✅ |
+| [AppsFlyer](https://support.appsflyer.com/hc/en-us/articles/207032066-AppsFlyer-SDK-Integration-iOS) | ✅ | ✅ | ❌ | ⚠️ |
 | [Realm](https://github.com/realm/realm-cocoa) | ✅ | ✅ | ✅ | ⚠️ |
 | [Mixpanel](https://mixpanel.com/help/reference/ios) | ✅ | ✅ | ✅ | ✅ |
 | [Braintree](https://developers.braintreepayments.com/guides/client-sdk/setup/ios/v4) | ✅ | ✅ | ✅ | ✅ |
@@ -36,6 +36,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Zendesk Support SDK](https://github.com/zendesk/zendesk_sdk_ios)| ✅ | ✅ | ✅ | ⚠️ |
 | [Zendesk Chat SDK](https://github.com/zendesk/zendesk_sdk_chat_ios)| ✅ | ✅ | ✅ | ⚠️ |
 | [Sentry SDK](https://github.com/getsentry/sentry-cocoa) | ✅ | ✅ | ✅ | ✅ |
+| [PhotoEditor SDK iOS](https://www.photoeditorsdk.com/)| ✅ | ✅ | ✅ | ⚠️ |
 
 #### Has official CocoaPod
 
