@@ -18,6 +18,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Braintree](https://developers.braintreepayments.com/guides/client-sdk/setup/ios/v4) | ✅ | ✅ | ✅ | ✅ |
 | [Branch](https://github.com/BranchMetrics/ios-branch-deep-linking) | ✅ | ✅ | ✅ | ✅ |
 | [Bugfender](https://bugfender.com/)| ✅ | ✅ | ✅ | ⚠️ |
+| [Bugsee](https://www.bugsee.com/)| ✅ | ✅ | ✅ | ⚠️ |
 | [Amplitude](https://amplitude.zendesk.com/hc/en-us/articles/115002278527-iOS-SDK-Installation) | ✅ | ✅ | ✅ | ✅ |
 | [Appsee](https://www.appsee.com/docs/ios/native) | ✅ | ✅ | ✅ | ⚠️ |
 | [Crashlytics](https://try.crashlytics.com/) | ✅ | ✅ | ✅ | ⚠️ |
