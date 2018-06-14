@@ -40,6 +40,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Zendesk Chat SDK](https://github.com/zendesk/zendesk_sdk_chat_ios)| ✅ | ✅ | ✅ | ⚠️ |
 | [Sentry SDK](https://github.com/getsentry/sentry-cocoa) | ✅ | ✅ | ✅ | ✅ |
 | [PhotoEditor SDK iOS](https://www.photoeditorsdk.com/)| ✅ | ✅ | ✅ | ⚠️ |
+| [Pusher Beams iOS SDK](https://www.pusher.com/beams/)| ✅ | ✅ | ✅ | ✅ |
 
 #### Has official CocoaPod
 
