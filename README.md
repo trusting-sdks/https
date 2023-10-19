@@ -41,6 +41,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [PhotoEditor SDK iOS](https://www.photoeditorsdk.com/)| ✅ | ✅ | ✅ | ⚠️ |
 | [Pusher Beams iOS SDK](https://www.pusher.com/beams/)| ✅ | ✅ | ✅ | ✅ |
 | [Scanbot SDK for iOS](https://scanbot.io/sdk)| ✅ | ✅ | ✅ | ⚠️ |
+| [Video Editor SDK iOS](https://www.banuba.com/video-editor-sdk-best-for-developers/)                 | ✅ | ✅ | ✅ | ⚠️ |
 
 #### Has official CocoaPod
 
